@@ -23,8 +23,8 @@ Chat Window:
     
 How to Run the Project:
 
-  1)Open a terminal -> Navigate to client folder -> use 'npm start' to start the client.
-  2)Open another termila -> Navigate to server folder -> use 'npm start' to start the server. 
+  1)Open a terminal -> Navigate to client folder ->do 'npm install' -> use 'npm start' to start the client.
+  2)Open another termila -> Navigate to server folder -> do 'npm install' -> use 'npm start' to start the server. 
   3)Open the browser and run 'localhost:3000'(respective port) in address bar to open the webpage. 4)To work with multiple clients open the url in multiple        browsers.
   
 Procedure to explore the project:
