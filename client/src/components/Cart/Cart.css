@@ -1,0 +1,36 @@
+.cartOuterContainer{
+    height: 100vh;
+    background-color: #080403de;
+    background-image: url('../../Assets/images/cart.png');
+    background-size: cover;
+}
+.cartInnerContainer{
+    width:100%;
+    margin-top: 2%;
+    margin-left: 10%;
+
+}
+.header{
+    width: 100%;
+    background-color: #e2a85c94;
+    height: auto;
+    padding-top: 1%;
+    color: #804259;
+    text-align: center;
+    text-transform: uppercase;
+}
+.pageTitle{
+    width: 80%;
+    text-align:center
+}
+.bold{
+    font-weight:bolder;
+ }
+.errorMessage{
+    color:red;
+    width:auto;
+}
+.successMessage{
+    width:auto;
+    color:green;
+}
