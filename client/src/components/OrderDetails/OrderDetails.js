@@ -1,6 +1,5 @@
 import React from 'react';
 import ProductCard from '../ProductCard/ProductCard';
-import './OrderDetails.css';
 
 const OrderDetails = (props)=>{
     let {productDetails} = props;
