@@ -2,7 +2,7 @@ import react from 'react';
 import SubmitButton from '../SubmitButton/SubmitButton';
 import Accordion from '../Accordion/Accordion';
 import OrderDetails from '../OrderDetails/OrderDetails';
-import  './OrderSummary.css';
+
 
 const OrderSummary = (props)=>{
     let {acc,
