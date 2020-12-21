@@ -1,0 +1,27 @@
+.accButton{
+    width:100%;
+    background-color: rgb(226, 168, 92);
+    border:0;
+    margin-top: 2%;
+    padding-left:5%;
+    align-items: center;
+    height: 48px;
+    text-align:left;
+    text-transform: uppercase;
+    display: flex;
+    font-size: 20px;
+}
+.accParentContainer{
+    width:80%
+}
+.black{
+    color:black;
+}
+.accChildContainer{
+    background-color: rgb(242 208 145);
+    text-align: center;
+}
+
+.bold{
+   font-weight:bolder;
+}

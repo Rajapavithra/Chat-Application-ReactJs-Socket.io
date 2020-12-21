@@ -1,0 +1,11 @@
+.smtBtnContainer{
+    border-top: 1px white solid;
+    height: auto;
+    padding: 2%;
+}
+.smtBtn{
+    background-color: #f1bba7;
+    border: none;
+    border-radius: 2px;
+    border: 2px #ff00001a solid;
+}

@@ -1,0 +1,19 @@
+.productCard{
+    width: auto;
+    display: flex;
+    border-bottom: 2px white solid;
+    padding: 2% 2% 2% 2%;
+}
+.details{
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: left;
+}
+.bold{
+    font-weight: bold
+}
+.deliveryDetails{
+    width: auto;
+    margin-left: 10%;
+    margin-top: 3%;
+}

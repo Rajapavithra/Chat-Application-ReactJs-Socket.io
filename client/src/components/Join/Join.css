@@ -1,0 +1,47 @@
+.authOuterContainer{
+    height: 100vh;
+    background-color: #080403de;
+    background-image: url('../../Assets/images/signInBG.png');
+}
+
+.authinnerContainer{
+    width: 20%;
+    float: right;
+    margin-right: 8%;
+    margin-top:15%;
+}
+.authInput{
+    border-radius:3;
+    padding:15px 20px;
+    width:80%;
+}
+.field{
+    width: 100%;
+    padding: 10% 0% 5% 15%;
+}
+.error{
+    color:red;
+    font-size:1em;
+    padding-bottom:10px;
+    width:100%;
+    text-align: center;
+}
+.heading{
+    color:rgb(228, 104, 22);
+    font-size: 3em;
+    padding-bottom: 10px;
+    border-bottom: 5px solid #0a0404;
+    text-align: center;
+}
+
+.button{
+    color : white !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background:#2979FF;
+    padding:20px;
+    border-radius:5px;
+    display:inline-block;
+    border:none;
+    width:100%;
+}

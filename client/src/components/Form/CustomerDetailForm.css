@@ -1,0 +1,25 @@
+.dtlsInput{
+    background-color: rgb(226 181 154 / 26%);
+    border-bottom: 1px black solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+ }
+ .table{
+    width:100%
+}
+
+/* Chrome, Safari, Edge, Opera  to remove spin number*/
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* Firefox to remove spin number*/
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.textArea{
+    text-decoration:none;
+}
