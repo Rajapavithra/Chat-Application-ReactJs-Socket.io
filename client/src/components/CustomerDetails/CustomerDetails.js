@@ -2,7 +2,7 @@ import React from 'react';
 import SubmitButton from '../SubmitButton/SubmitButton';
 import Accordion from '../Accordion/Accordion';
 import CustomerDetailForm from '../Form/CustomerDetailForm';
-import './CustomerDetails.css';
+
 
 const CustomerDetails = (props)=>{
     let {isCusDtlsValid,acc={},toggleAccordion,onCustomerDetailsSubmit,handleInputChange,userDetails={}} = props;
