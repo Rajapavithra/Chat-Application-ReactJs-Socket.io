@@ -37,3 +37,8 @@ Procedure to explore the project:
   6)Upon submitting customer Details, order Summary details will get open. 
   7)You shall submit the order. 8)The goods ordered will be broadcasted to all the cients in the same channel.
 
+
+ScreenShots :
+Cart Details page along with Chat window: (A chat broadcast between 'R' and 'G' and 'A'(admin) welcome message is displayed)
+![React App - Personal - Microsoft​ Edge 13-Sep-21 9_44_15 PM](https://user-images.githubusercontent.com/37566655/133126841-3656d7d2-a7b6-4af2-bac6-c649ac0bf032.png)
+
